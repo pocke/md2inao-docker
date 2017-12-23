@@ -1,2 +1,2 @@
 build:
-	docker build -t md2inao:dev .
+	docker build -t pocke/md2inao:dev .
